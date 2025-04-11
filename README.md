@@ -1,6 +1,6 @@
 # Hi there, I'm Asif kiani 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=asifkiani_001&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=asifkaini&style=flat-square&color=blue)
 
 A Junior Web Developer passionate about building modern web applications
 
@@ -18,7 +18,7 @@ A Junior Web Developer passionate about building modern web applications
 
 🚀 Always learning. Always building.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asifkiani_001&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asifkaini&show_icons=true&theme=default)
 
 ## 🛠 Languages and Tools
 
