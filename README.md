@@ -14,7 +14,7 @@ A Junior Web Developer passionate about building modern web applications
 🌱 Currently exploring more advanced topics in .NET and modern frontend tools  
 🎯 Looking to grow as a Full Stack Developer  
 💬 Ask me about anything related to React or ASP.NET  
-📫 Reach me at: asikiani22@gmail.com 
+📫 Reach me at: asifkiani22@gmail.com 
 
 🚀 Always learning. Always building.
 
